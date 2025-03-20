@@ -38,3 +38,6 @@ This project presents an **interactive Power BI dashboard** to analyze sales, pr
 ## **Tools Used**
 
 -   **Power BI** (Data Modeling, DAX, Interactive Visualizations)
+
+## 📊 Power BI Sales Dashboard
+![Full Dashboard](DashBoard_Images/DashBoard.jpg)
